@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -28,15 +31,21 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0015-3sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0016-3sum-closest) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
