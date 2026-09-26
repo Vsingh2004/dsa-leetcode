@@ -2,26 +2,31 @@ class Solution {
 public:
     bool isPalindrome(string s) {
         int n = s.length();
-        string cleaned = "";
 
-        for(int i =0; i<n; i++){
-            if(isalnum(s[i])){
-                cleaned.push_back(tolower(s[i]));
+        int left = 0;
+        int right = n-1;
+
+        while(left<right){
+             // Skip non-alphanumeric characters from left
+            while(left < right && !isalnum(s[left])) {
+                left++;
             }
-        }
 
-        int low = 0;
-        int high = cleaned.size() -1;
+            // Skip non-alphanumeric characters from right
+            while(left < right && !isalnum(s[right])) {
+                right--;
+            }
 
-        while(low<=high){
-            if(cleaned[low] != cleaned[high]){
+            if(tolower(s[left]) != tolower(s[right])){
                 return false;
             }
 
-            low++;
-            high--;
+                left++;
+                right--;
+
         }
 
-        return true;
+    return true;
+        
     }
 };
