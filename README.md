@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0709-to-lower-case](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0709-to-lower-case) |
 ## Sorting
 |  |
 | ------- |
