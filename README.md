@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0033-search-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0016-3sum-closest](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
