@@ -9,10 +9,8 @@ public:
             mp[nums[i]] = i;
         }
 
-        for(auto it:mp){
-            if(it.first == target){
-                return it.second;
-            }
+        if(mp.find(target) != mp.end()){
+            return mp[target];
         }
 
         return -1;
