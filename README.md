@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0611-valid-triangle-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -93,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
