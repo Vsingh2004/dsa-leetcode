@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0540-single-element-in-a-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0611-valid-triangle-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0611-valid-triangle-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
