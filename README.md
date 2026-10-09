@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
