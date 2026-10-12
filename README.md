@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0204-count-primes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
