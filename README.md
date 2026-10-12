@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0007-reverse-integer](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0507-perfect-number) |
