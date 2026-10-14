@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0007-reverse-integer](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0507-perfect-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0217-contains-duplicate) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0016-3sum-closest](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0611-valid-triangle-number) |
