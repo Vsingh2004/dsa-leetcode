@@ -169,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
