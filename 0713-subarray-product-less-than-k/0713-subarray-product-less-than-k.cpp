@@ -1,31 +1,27 @@
 class Solution {
 public:
-    int numSubarrayProductLessThanK(vector<int>& nums, int k) {
-        if(k<=1) return 0;
-        
-        int n = nums.size();
-        int low = 0;
-        long long int prod = 1;
-        int cnt = 0;
+  int numSubarrayProductLessThanK(vector<int>& nums, int k) {
+    // Handle edge cases where k is 0 or 1 (no subarrays possible)
+    if (k <= 1) return 0;
 
-        for(int high =0; high<n; high++){
-            prod*= nums[high];
+    int totalCount = 0;
+    int product = 1;
 
-            while(prod>= k){
-                if(low<n){
-                    prod /= nums[low];
-                    low++;
-                }else{
-                    break;
-                }
-            }
+    // Use two pointers to maintain a sliding window
+    for (int left = 0, right = 0; right < nums.size(); right++) {
+      // Expand the window by including the element at the right pointer
+      product *= nums[right];
 
-            if(prod<k){
-            cnt += high - low +1;
-            }
+      // Shrink the window from the left while the product is greater than or equal to k
+      while (product >= k) {
+        // Remove the element at the left pointer from the product
+        product /= nums[left++];
+      }
 
-        }
-
-        return cnt;
+      // Update the total count by adding the number of valid subarrays with the current window size
+      totalCount += right - left + 1;  // right - left + 1 represents the current window size
     }
+
+    return totalCount;
+  }
 };
