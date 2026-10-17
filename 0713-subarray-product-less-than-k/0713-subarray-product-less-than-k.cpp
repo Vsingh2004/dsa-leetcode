@@ -15,7 +15,8 @@ public:
       // Shrink the window from the left while the product is greater than or equal to k
       while (product >= k) {
         // Remove the element at the left pointer from the product
-        product /= nums[left++];
+        product /= nums[left];
+        left++;
       }
 
       // Update the total count by adding the number of valid subarrays with the current window size
