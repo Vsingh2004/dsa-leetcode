@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -176,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
