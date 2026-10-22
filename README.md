@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0611-valid-triangle-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
