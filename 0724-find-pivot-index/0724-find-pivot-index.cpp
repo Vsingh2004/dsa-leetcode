@@ -2,22 +2,21 @@ class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
         int n = nums.size();
+        int totalSum = 0;
+        int leftSum = 0;
 
-        vector<int> prefix(n,0);
-        vector<int> suffix(n,0);
-
-        for(int i =1; i<n; i++){
-            prefix[i] = prefix[i-1] + nums[i-1];
+        for(int x: nums){
+            totalSum += x;
         }
 
-        for(int i =n-2; i>=0; i--){
-            suffix[i] = suffix[i+1] + nums[i+1];
-        }
+        for(int i  =0; i<n; i++){
+            int rightSum = totalSum - leftSum - nums[i];
 
-        for(int i =0; i<n; i++){
-            if(prefix[i] == suffix[i]){
+            if(leftSum == rightSum){
                 return i;
             }
+
+            leftSum += nums[i];
         }
 
         return -1;
