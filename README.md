@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0242-valid-anagram](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0709-to-lower-case) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0002-add-two-numbers](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
