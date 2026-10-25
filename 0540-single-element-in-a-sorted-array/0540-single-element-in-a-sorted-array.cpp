@@ -4,15 +4,21 @@ public:
         int n =nums.size();
 
         int i =0;
+        int j =n-1;
 
-        while(i<n){
-            if(i+1>=n) break;
-            
-            if(nums[i] != nums[i+1]){
-                return nums[i];
+        while(i<j && n>1){
+            while(nums[i+1] == nums[i] && nums[j-1] == nums[j]){
+                i+=2;
+                j-=2;
             }
 
-            i += 2;
+            if(nums[i+1] != nums[i]){
+                return nums[i];
+            }else{
+                return nums[j];
+            }
+
+
         }
 
         return nums[i];
