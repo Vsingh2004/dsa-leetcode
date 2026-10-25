@@ -1,20 +1,20 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int n = nums.size();
+        int n =nums.size();
 
-        unordered_map<int, int> freq;
+        int i =0;
 
-        for(int x:nums){
-            freq[x]++;
-        }
-
-        for(auto it:freq){
-            if(it.second == 1){
-                return it.first;
+        while(i<n){
+            if(i+1>=n) break;
+            
+            if(nums[i] != nums[i+1]){
+                return nums[i];
             }
+
+            i += 2;
         }
 
-    return -1;
+        return nums[i];
     }
 };
