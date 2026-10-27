@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0242-valid-anagram](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
