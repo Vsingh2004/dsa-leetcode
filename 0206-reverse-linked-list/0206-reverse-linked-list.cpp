@@ -13,22 +13,18 @@ public:
     ListNode* reverseList(ListNode* head) {
         if(head == NULL || head->next == NULL) return head;
 
-        ListNode* temp = head;
-        ListNode * ansHead = nullptr;
+        ListNode *prev = NULL;
+        ListNode *curr = head;
 
-        while(temp){
-            ListNode *newNode = new ListNode(temp->val);
-            if(ansHead == NULL){
-                ansHead = newNode;
-            }else{
-                newNode->next = ansHead;
-                ansHead = newNode;
-            }
+        while(curr){
+            ListNode *next = curr->next;
 
-            temp = temp->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
         }
 
-        return ansHead;
+        return prev;
 
     }
 };
