@@ -9,7 +9,8 @@ public:
         bool special = false;
 
         for(int i=0; i<password.length(); i++){
-            if(password[i] == password[i+1]) return false;
+            if(i > 0 && password[i] == password[i-1])
+                return false;
 
             if(islower(password[i])){
                 lower = true;
@@ -17,18 +18,12 @@ public:
                 upper =true;
             }else if(isdigit(password[i])){
                 digit =true;
-            }else if(isupper(password[i])){
-                upper =true;
             }else{
                 special =true;
             }
         }
 
-        if(lower && upper && digit && special){
-        return true;
-        }
-
-        return false;
+        return lower && upper && digit && special;
 
     }
 };
