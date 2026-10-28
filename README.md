@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0709-to-lower-case](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2299-strong-password-checker-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2299-strong-password-checker-ii) |
 ## Sorting
 |  |
 | ------- |
