@@ -9,11 +9,10 @@ public:
         for(int i=0; i<n; i++){
             if(s[i] == '('){
                 depth++;
+                maxd = max(maxd, depth);
             }else if(s[i] == ')'){
                 depth--;
             }
-
-            maxd = max(maxd, depth);
         }
 
         return maxd;
