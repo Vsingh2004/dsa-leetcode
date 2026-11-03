@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0507-perfect-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
