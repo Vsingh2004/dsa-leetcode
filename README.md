@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0540-single-element-in-a-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Newton's Method
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0724-find-pivot-index](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0643-maximum-average-subarray-i](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0713-subarray-product-less-than-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
