@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1732-find-the-highest-altitude](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
