@@ -10,13 +10,8 @@ public:
              bool valid = true;
              
             for(int j =0; j<n2; j++){
-                int differ = arr1[i] - arr2[j];
 
-                if(differ < 0){
-                    differ = -1 * differ;
-                }
-
-                if(differ<= d){
+                if(abs(arr1[i] - arr2[j])<= d){
                     valid = false;
                     break;
                 } 
