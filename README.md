@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0724-find-pivot-index](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1732-find-the-highest-altitude) |
