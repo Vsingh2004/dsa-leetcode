@@ -13,38 +13,26 @@ public:
     bool isPalindrome(ListNode* head) {
         if(head == NULL || head->next == NULL) return true;
 
-        ListNode *slow = head;
-        ListNode *fast = head;
+        vector<int> arr;
 
-        while(fast!=NULL && fast->next!=NULL){
-            slow = slow->next;
-            fast = fast->next->next;
+        ListNode *temp = head;
+
+        while(temp){
+            arr.push_back(temp->val);
+
+            temp = temp->next;
         }
 
-        
-        ListNode *prev = NULL;
-        ListNode *curr = slow;
+        int left = 0;
+        int right = arr.size() -1;
 
-        while(curr){
-            ListNode* nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-
-            curr = nextNode;
-        }
-
-        ListNode* p1 = head;
-        ListNode* p2 = prev;
-
-        while(p2!=NULL){
-            if(p1->val != p2->val) return false;
-
-            p1 = p1->next;
-            p2 = p2->next;
+        while(left<= right){
+            if(arr[left] != arr[right]) return false;
+            
+            left++;
+            right--;
         }
 
         return true;
     }
-
-
 };
