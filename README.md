@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0229-majority-element-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0189-rotate-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0078-subsets](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -281,4 +285,9 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
