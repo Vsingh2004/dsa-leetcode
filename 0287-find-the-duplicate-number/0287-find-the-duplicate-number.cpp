@@ -3,14 +3,16 @@ public:
     int findDuplicate(vector<int>& nums) {
         int n = nums.size();
 
-        sort(nums.begin(), nums.end());
+        unordered_map<int,int> mp;
 
-        int ans = nums[0];
-        
-        for(int i=0 ; i<n-1; i++){
-            if(nums[i] == nums[i+1]) ans = nums[i];
+        for(int x:nums){
+            mp[x]++;
         }
 
-        return ans;
+        for(auto it = mp.begin(); it!=mp.end(); it++){
+            if(it->second>1) return it->first;
+        }
+
+        return -1;
     }
 };
