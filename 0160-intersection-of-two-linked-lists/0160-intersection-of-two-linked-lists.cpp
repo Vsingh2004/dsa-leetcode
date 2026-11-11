@@ -13,21 +13,20 @@ public:
         ListNode *temp1 = headA;
         ListNode *temp2 = headB;
 
-        while(temp1!=NULL || temp2!=NULL){
-            
+        while(temp1 != temp2){
             if(temp1 == NULL){
                 temp1 = headB;
-            }else if(temp2 == NULL){
-                temp2 = headA;
+            }else{
+                temp1 = temp1->next;
             }
 
-            if(temp1 == temp2) return temp1;
-
-            temp1 = temp1->next;
-            temp2 = temp2->next;
-
+            if(temp2 == NULL){
+                temp2 = headA;
+            }else{
+                temp2 = temp2->next;
+            }
         }
 
-        return NULL;
+        return temp1;
     }
 };
