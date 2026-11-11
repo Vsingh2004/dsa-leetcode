@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1732-find-the-highest-altitude) |
