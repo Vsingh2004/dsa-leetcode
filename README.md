@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1021-remove-outermost-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2299-strong-password-checker-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2299-strong-password-checker-ii) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1512-number-of-good-pairs](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0258-add-digits) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
