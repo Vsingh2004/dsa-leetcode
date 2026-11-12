@@ -10,11 +10,11 @@ public:
 
             int left = i+1;
             int right = n-1;
-            // int sum = -1 * nums[i];
+            int sum = -1 * nums[i];
 
             while(left<right){
-                int sum = nums[i] + nums[left] + nums[right];
-                if(sum == 0){
+                int s = nums[left] + nums[right];
+                if(s == sum){
                     triplets.push_back({nums[i], nums[left],nums[right]});
                     left++;
                     right--;
@@ -27,7 +27,7 @@ public:
                         right--;
                     }
                 }
-                else if(sum < 0){
+                else if(s < sum){
                     left++;
                 }else{
                     right--;
