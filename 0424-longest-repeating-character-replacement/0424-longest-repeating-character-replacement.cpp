@@ -3,20 +3,20 @@ public:
     int characterReplacement(string s, int k) {
         int n = s.length();
 
-        vector<int> arr(26,0);
+        unordered_map<char,int> mp;
 
         int low = 0;
         int maxFreq = 0;
         int maxLen = 0;
 
         for(int high =0; high<n; high++){
-           int currFreq =  ++arr[s[high] - 'A'];
+           int currFreq =  ++mp[s[high]];
         maxFreq = max(maxFreq, currFreq);
 
             int len = high - low +1;
 
             if(len - maxFreq > k){
-                arr[s[low] - 'A']--;
+                mp[s[low]]--;
                 low++;
             }
 
