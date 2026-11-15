@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0507-perfect-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1512-number-of-good-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0237-delete-node-in-a-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Euclidean Algorithm
 |  |
