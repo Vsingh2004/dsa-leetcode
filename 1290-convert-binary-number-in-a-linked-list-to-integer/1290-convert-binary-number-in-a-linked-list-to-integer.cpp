@@ -14,23 +14,13 @@ public:
         ListNode* temp = head;
         int size = 0;
 
-        while(temp){
-            size++;
+        int ans = 0;
 
+        while(temp){
+            ans = (ans * 2) + temp->val;
             temp = temp->next;
         }
 
-        temp = head;
-        int index = 1;
-        int sum = 0;
-
-        while(temp){
-            sum += (temp->val) * pow(2,size-index);
-
-            index++;
-            temp = temp->next;
-        }
-
-        return sum;
+        return ans;
     }
 };
