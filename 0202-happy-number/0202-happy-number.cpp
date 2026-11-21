@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        unordered_map<int,bool> mp;
+        unordered_map<int,int> mp;
 
         while(n!=0){
             int sum = 0;
@@ -17,9 +17,9 @@ public:
 
             if(n == 1) return true;
             
-            if(mp[n]) return false;
+            if(mp.find(n) != mp.end()) return false;
 
-            mp[n] = true;
+            mp[n]++;
         }
 
         return false;
