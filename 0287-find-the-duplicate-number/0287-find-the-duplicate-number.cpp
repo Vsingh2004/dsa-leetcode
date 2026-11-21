@@ -3,16 +3,24 @@ public:
     int findDuplicate(vector<int>& nums) {
         int n = nums.size();
 
-        unordered_map<int,int> mp;
+        int slow = 0;
+        int fast = 0;
 
-        for(int x:nums){
-            mp[x]++;
+        // finding cycle first...
+
+        do{
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }while(slow!=fast);
+
+        // find entrance of cycle..
+        slow = 0;
+        
+        while(slow!=fast){
+            slow = nums[slow];
+            fast = nums[fast];
         }
 
-        for(auto it = mp.begin(); it!=mp.end(); it++){
-            if(it->second>1) return it->first;
-        }
-
-        return -1;
+        return slow;
     }
 };
