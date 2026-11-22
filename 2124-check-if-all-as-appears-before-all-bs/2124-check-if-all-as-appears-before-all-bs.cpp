@@ -5,7 +5,7 @@ public:
 
 
         for(int i=0; i<n-1;i++){
-            if(s[i] == 'b' && s[i+1] == 'a') return false;
+            if(s.contains("ba")) return false;
 
         }
 
