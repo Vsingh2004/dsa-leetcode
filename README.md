@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2299-strong-password-checker-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2299-strong-password-checker-ii) |
 ## Sorting
 |  |
