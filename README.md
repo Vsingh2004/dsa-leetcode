@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1732-find-the-highest-altitude](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2105-watering-plants-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0876-middle-of-the-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2105-watering-plants-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0258-add-digits](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2105-watering-plants-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
