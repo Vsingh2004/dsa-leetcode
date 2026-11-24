@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0125-valid-palindrome) |
@@ -293,12 +294,14 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
