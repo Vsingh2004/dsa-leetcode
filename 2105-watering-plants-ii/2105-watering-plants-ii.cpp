@@ -9,34 +9,7 @@ public:
         int currcapB = capacityB;
         int refill = 0;
 
-        while(a<=b){
-            if(a==b){
-                if(currcapA > currcapB){
-                    if(plants[a]>currcapA){
-                      currcapA = capacityA;
-                      refill++;
-                    }
-                  currcapA -= plants[a];
-                  a++;
-                  break;
-                }else if(currcapA < currcapB){
-                     if(plants[b] > currcapB){
-                        currcapB = capacityB;
-                        refill++;
-                    }
-                    currcapB -= plants[b];
-                    b--;
-                    break;
-                }else{
-                    if(plants[a]>currcapA){
-                      currcapA = capacityA;
-                      refill++;
-                    }
-                  currcapA -= plants[a];
-                  a++;
-                  break;
-                }
-            }
+        while(a<b){
 
             if(plants[a]>currcapA){
                 currcapA = capacityA;
@@ -51,6 +24,20 @@ public:
             }
             currcapB -= plants[b];
             b--;
+        }
+
+         // If one plant remains
+        if (a == b) {
+            if (currcapA >= currcapB) {
+                if (currcapA < plants[a]) {
+                    refill++;
+                }
+            }
+            else {
+                if (currcapB < plants[a]) {
+                    refill++;
+                }
+            }
         }
 
         return refill;
