@@ -22,26 +22,29 @@ public:
         }
 
         k = k%len;
+        if(k == 0) return head;
+        
         int count = 0;
 
-        ListNode* prev = head;
-        ListNode* curr = head->next;
+        ListNode *curr = head;
+        ListNode *temp2 = head;
+        ListNode *newTail = NULL;
 
-        while(count<k){
+        while(temp2->next!=NULL){
 
-            while(curr->next!=NULL){
-                 prev = prev->next;
-                 curr= curr->next;
+            if(count == len-k-1){
+                head = temp2->next;
+                newTail = temp2;
             }
 
-            curr->next = head;
-            head = curr;
-            prev->next = NULL;
-
-            prev = head;
-            curr = head->next;
+            temp2 = temp2->next;
             count++;
         }
+
+        temp2->next = curr;
+        newTail->next = NULL;
+
+
 
         return head;
     }
