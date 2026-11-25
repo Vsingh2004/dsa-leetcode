@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vsingh2004/dsa-leetcode/tree/master/0088-merge-sorted-array) |
