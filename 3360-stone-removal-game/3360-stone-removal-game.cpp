@@ -8,12 +8,8 @@ public:
         int stonesToPick = 9;
 
         while(true){
-
-            if(chance%2 ==0){
-                if(stonesToPick > n) return true;
-            }else{
-                if(stonesToPick > n) return false;
-
+            if(stonesToPick > n){
+                return (chance%2 == 0);
             }
 
             n -= stonesToPick;
