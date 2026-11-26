@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Vsingh2004/dsa-leetcode/tree/master/1512-number-of-good-pairs) |
+| [3360-stone-removal-game](https://github.com/Vsingh2004/dsa-leetcode/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2105-watering-plants-ii](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vsingh2004/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/Vsingh2004/dsa-leetcode/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
