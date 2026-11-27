@@ -3,27 +3,23 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
 
-        unordered_map<int,int> prefix;
-        unordered_map<int,int> suffix;
+        vector<int> ans(n);
 
-        vector<int> ans;
+        // 1.) directly modifying ans with prefix product..
 
         int prefixProd = 1;
         for(int i = 0; i<n; i++){
-            prefix[i] = prefixProd;
+            ans[i] = prefixProd;
 
             prefixProd *= nums[i];
         }
 
+        // 2.) Modifying ans array with running suffixProduct...
         int suffixProd= 1;
         for(int j = n-1; j>=0; j--){
-            suffix[j] = suffixProd;
+            ans[j] = suffixProd * ans[j];
 
             suffixProd *= nums[j]; 
-        }
-
-        for(int i=0 ;i<n; i++){
-            ans.push_back(prefix[i] * suffix[i]);
         }
 
         return ans;
